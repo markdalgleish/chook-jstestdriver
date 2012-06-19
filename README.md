@@ -12,7 +12,7 @@ var chook = require('chook'),
 	chook_jstestdriver = require('chook-jstestdriver');
 
 chook.configure(function(){
-	chook.use( chook_jstestdriver({path: '/path/to/JsTestDriver.conf'}) );
+	chook.use( chook_jstestdriver({configPath: '/path/to/JsTestDriver.conf'}) );
 });
 
 chook.run().on('complete', function(err, results) {
