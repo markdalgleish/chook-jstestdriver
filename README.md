@@ -15,7 +15,7 @@ chook.configure(function(){
 	chook.use( chook_jstestdriver({configPath: '/path/to/JsTestDriver.conf'}) );
 });
 
-chook.run().on('complete', function(err, results) {
+chook.run().on('complete', function(results) {
 	console.log(results);
 });
 ```
