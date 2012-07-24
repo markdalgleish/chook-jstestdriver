@@ -1,10 +1,11 @@
 {
   "name": "chook-jstestdriver",
   "description": "JsTestDriver adapter for Chook, the headless, framework-agnostic unit test runner",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "homepage": "https://github.com/markdalgleish/chook-jstestdriver",
   "author": {
-    "name": "Mark Dalgleish"
+    "name": "Mark Dalgleish",
+    "url": "http://markdalgleish.com"
   },
   "repository": {
     "type": "git",
