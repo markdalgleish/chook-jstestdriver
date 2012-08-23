@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/markdalgleish/chook-jstestdriver.png)](http://travis-ci.org/markdalgleish/chook-jstestdriver)
 # chook-jstestdriver
 
 JsTestDriver adapter for Chook, the headless, framework-agnostic unit test runner for Node.js
